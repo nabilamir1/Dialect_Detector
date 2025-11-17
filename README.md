@@ -72,7 +72,7 @@ Explore the detailed implementation and experiments in these Google Colab notebo
 - Fares Mohamed  
 - Abdelrahman Mohamed
 - Salah Eldin Mostafa
-- Marwan Elgabry
+- Marwan Alaa
 - Mina Nagy
 
 ---
